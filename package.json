@@ -1,9 +1,9 @@
 {
-  "name": "07-storybook-com-react",
+  "name": "storybook-com-nextjs",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/omariosouto/07-storybook-com-react.git",
-  "author": "Mario Souto <13791385+omariosouto@users.noreply.github.com>",
+  "repository": "https://github.com/ViniciusYoda/storybook-com-nextjs.git",
+  "author": "Vinícius Yoda",
   "license": "MIT",
   "scripts": {
     "start": "next start",
