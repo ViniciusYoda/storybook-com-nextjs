@@ -2,5 +2,5 @@
 
 ...
 
-## Passo a passo do projeto
+## Passo a passo do projeto -
 - `yarn init -y`
